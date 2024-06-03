@@ -781,7 +781,7 @@ const Dashboard = () => {
                   <div className="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
                     <div
                       className="bg-primary-600 h-2.5 rounded-full dark:bg-primary-500"
-                      style="width: 18%"
+                      style={{ width: "18%" }}
                     ></div>
                   </div>
                 </div>
@@ -792,7 +792,7 @@ const Dashboard = () => {
                   <div className="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
                     <div
                       className="bg-primary-600 h-2.5 rounded-full dark:bg-primary-500"
-                      style="width: 15%"
+                      style={{ width: "15%" }}
                     ></div>
                   </div>
                 </div>
@@ -803,7 +803,7 @@ const Dashboard = () => {
                   <div className="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
                     <div
                       className="bg-primary-600 h-2.5 rounded-full dark:bg-primary-500"
-                      style="width: 60%"
+                      style={{ width: "60%" }}
                     ></div>
                   </div>
                 </div>
@@ -814,7 +814,7 @@ const Dashboard = () => {
                   <div className="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
                     <div
                       className="bg-primary-600 h-2.5 rounded-full dark:bg-primary-500"
-                      style="width: 30%"
+                      style={{ width: "30%" }}
                     ></div>
                   </div>
                 </div>
@@ -851,7 +851,7 @@ const Dashboard = () => {
                       <p className="text-sm text-gray-600 dark:text-gray-400">
                         <time
                           pubdate
-                          datetime="2022-02-08"
+                          dateTime="2022-02-08"
                           title="February 8th, 2022"
                         >
                           {" "}
@@ -961,7 +961,7 @@ const Dashboard = () => {
                       <p className="text-sm text-gray-600 dark:text-gray-400">
                         <time
                           pubdate
-                          datetime="2022-02-08"
+                          dateTime="2022-02-08"
                           title="February 8th, 2022"
                         >
                           {" "}
@@ -1186,7 +1186,7 @@ const Dashboard = () => {
                       <p className="text-sm text-gray-600 dark:text-gray-400">
                         <time
                           pubdate
-                          datetime="2022-02-08"
+                          dateTime="2022-02-08"
                           title="February 8th, 2022"
                         >
                           {" "}
@@ -1400,7 +1400,7 @@ const Dashboard = () => {
                       <p className="text-sm text-gray-600 dark:text-gray-400">
                         <time
                           pubdate
-                          datetime="2022-02-08"
+                          dateTime="2022-02-08"
                           title="February 8th, 2022"
                         >
                           {" "}
@@ -1486,7 +1486,7 @@ const Dashboard = () => {
                       <p className="text-sm text-gray-600 dark:text-gray-400">
                         <time
                           pubdate
-                          datetime="2022-02-08"
+                          dateTime="2022-02-08"
                           title="February 8th, 2022"
                         >
                           {" "}
@@ -2794,7 +2794,7 @@ const Dashboard = () => {
                             <svg
                               className="w-7 h-7"
                               aria-hidden="true"
-                              enable-background="new 0 0 780 500"
+                              enableBackground="new 0 0 780 500"
                               viewBox="0 0 780 500"
                               xmlns="http://www.w3.org/2000/svg"
                             >
@@ -2854,8 +2854,8 @@ const Dashboard = () => {
                                   y1="-2.006%"
                                   y2="100%"
                                 >
-                                  <stop offset="0%" stop-color="#222357" />
-                                  <stop offset="100%" stop-color="#254AA5" />
+                                  <stop offset="0%" stopColor="#222357" />
+                                  <stop offset="100%" stopColor="#254AA5" />
                                 </linearGradient>
                               </defs>
                               <path
@@ -2901,8 +2901,8 @@ const Dashboard = () => {
                                   y1="-2.006%"
                                   y2="100%"
                                 >
-                                  <stop offset="0%" stop-color="#222357" />
-                                  <stop offset="100%" stop-color="#254AA5" />
+                                  <stop offset="0%" stopColor="#222357" />
+                                  <stop offset="100%" stopColor="#254AA5" />
                                 </linearGradient>
                               </defs>
                               <path
@@ -2948,8 +2948,8 @@ const Dashboard = () => {
                                   y1="-2.006%"
                                   y2="100%"
                                 >
-                                  <stop offset="0%" stop-color="#222357" />
-                                  <stop offset="100%" stop-color="#254AA5" />
+                                  <stop offset="0%" stopColor="#222357" />
+                                  <stop offset="100%" stopColor="#254AA5" />
                                 </linearGradient>
                               </defs>
                               <path
@@ -2984,7 +2984,7 @@ const Dashboard = () => {
                             <svg
                               className="w-7 h-7"
                               aria-hidden="true"
-                              enable-background="new 0 0 780 500"
+                              enableBackground="new 0 0 780 500"
                               viewBox="0 0 780 500"
                               xmlns="http://www.w3.org/2000/svg"
                             >
@@ -3035,7 +3035,7 @@ const Dashboard = () => {
                             <svg
                               className="w-7 h-7"
                               aria-hidden="true"
-                              enable-background="new 0 0 780 500"
+                              enableBackground="new 0 0 780 500"
                               viewBox="0 0 780 500"
                               xmlns="http://www.w3.org/2000/svg"
                             >
@@ -3085,7 +3085,7 @@ const Dashboard = () => {
                             <svg
                               className="w-7 h-7"
                               aria-hidden="true"
-                              enable-background="new 0 0 780 500"
+                              enableBackground="new 0 0 780 500"
                               viewBox="0 0 780 500"
                               xmlns="http://www.w3.org/2000/svg"
                             >
@@ -3145,8 +3145,8 @@ const Dashboard = () => {
                                   y1="-2.006%"
                                   y2="100%"
                                 >
-                                  <stop offset="0%" stop-color="#222357" />
-                                  <stop offset="100%" stop-color="#254AA5" />
+                                  <stop offset="0%" stopColor="#222357" />
+                                  <stop offset="100%" stopColor="#254AA5" />
                                 </linearGradient>
                               </defs>
                               <path
@@ -3181,7 +3181,7 @@ const Dashboard = () => {
                             <svg
                               className="w-7 h-7"
                               aria-hidden="true"
-                              enable-background="new 0 0 780 500"
+                              enableBackground="new 0 0 780 500"
                               viewBox="0 0 780 500"
                               xmlns="http://www.w3.org/2000/svg"
                             >
@@ -3230,7 +3230,7 @@ const Dashboard = () => {
                             <svg
                               className="w-7 h-7"
                               aria-hidden="true"
-                              enable-background="new 0 0 780 500"
+                              enableBackground="new 0 0 780 500"
                               viewBox="0 0 780 500"
                               xmlns="http://www.w3.org/2000/svg"
                             >

@@ -6,15 +6,19 @@
 .apexcharts-tooltip {
   @apply bg-white dark:bg-gray-700 text-gray-500 dark:text-gray-400 border-0 rounded-lg shadow-lg !important;
 }
+
 .apexcharts-tooltip .apexcharts-tooltip-title {
   @apply py-2 px-4 bg-gray-100 dark:bg-gray-600 border-b border-gray-200 dark:border-gray-500 !important;
 }
+
 .apexcharts-xaxistooltip {
   @apply text-gray-500 border-0 bg-white dark:bg-gray-700 dark:text-gray-300 rounded-lg shadow-lg !important;
 }
+
 .apexcharts-tooltip .apexcharts-tooltip-text-y-value {
   @apply dark:text-white;
 }
+
 .apexcharts-xaxistooltip-text {
   @apply font-medium text-sm !important;
 }
@@ -41,7 +45,7 @@
   @apply dark:bg-gray-800 !important;
 }
 
-.svgMap-map-wrapper .svgMap-control-button {
+.svgMap-map-wrapper .svgMap-control-button  {
   @apply rounded-lg border-solid border border-gray-300 hover:bg-gray-100 dark:border-gray-600 dark:hover:bg-gray-600 !important;
 }
 
@@ -58,16 +62,11 @@
   @apply bg-white dark:bg-gray-700 shadow-lg rounded-lg border-0 text-left !important;
 }
 
-.svgMap-tooltip
-  .svgMap-tooltip-content-container
-  .svgMap-tooltip-flag-container {
+.svgMap-tooltip .svgMap-tooltip-content-container .svgMap-tooltip-flag-container {
   @apply inline-block mr-2 text-left border-0 p-0 !important;
 }
 
-.svgMap-tooltip
-  .svgMap-tooltip-content-container
-  .svgMap-tooltip-flag-container
-  .svgMap-tooltip-flag {
+.svgMap-tooltip .svgMap-tooltip-content-container .svgMap-tooltip-flag-container .svgMap-tooltip-flag {
   @apply inline-block border-0 h-4 p-0 !important;
 }
 

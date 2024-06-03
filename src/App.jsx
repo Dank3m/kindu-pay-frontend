@@ -1,4 +1,5 @@
 import "./App.css";
+// import DashboardCount from "./components/DashboardCount";
 
 import Navbar from "./components/Navbar";
 import Sidebar from "./components/Sidebar";
@@ -20,6 +21,7 @@ function App() {
           className="relative w-full h-full overflow-y-auto bg-gray-50 lg:ml-64 dark:bg-gray-900"
         >
           <Dashboard />
+          {/* <DashboardCount /> */}
         </div>
       </div>
     </>
